@@ -1,0 +1,17 @@
+aniso8601             #
+click                #
+Flask                # Flask Application
+Flask-RESTful       # Flask RESTful API
+Flask-SQLAlchemy     # Flask ORM with SQL
+itsdangerous         #
+Jinja2               #
+MarkupSafe            #
+pytz                  #
+six                   #
+SQLAlchemy            # MYSQL ORM format
+Werkzeug               #
+requests         # 
+openai              # OpenAI Modules for API communications
+PyJWT
+Flask-Bcrypt
+marshmallow
